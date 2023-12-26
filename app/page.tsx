@@ -12,8 +12,8 @@ export default function Home() {
     <>
       <Card name="Yuya Uzu" tagline="Web Developer" imageSource="/yuya.jpeg"/>
       <Card name="Mikey Schro" tagline="Full Stack Engineer" imageSource='/next.svg'/>
-      <Card />
-      <Card />
+      <Card name="James Schro" tagline="Computer Engineering Student" imageSource='/vercel.svg'/>
+      <Card name="Gyarados" tagline="Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it." imageSource="/gyrados.png"/>
       <Card />
       <Button />
       <Student name="Spongebob" age={30} isStudent={true}/>
